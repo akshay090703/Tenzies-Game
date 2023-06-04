@@ -3,6 +3,12 @@
   font-family: "Karla", sans-serif;
 }
 
+#root {
+  display: flex;
+  justify-contents: center;
+  align-items: center;
+}
+  
 body {
   margin: 0;
   background-color: #0b2434;
