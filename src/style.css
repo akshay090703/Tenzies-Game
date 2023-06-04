@@ -3,7 +3,8 @@
   font-family: "Karla", sans-serif;
 }
 
-#root {
+body {
+  height: 100vh;
   display: flex;
   justify-contents: center;
   align-items: center;
